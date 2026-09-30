@@ -193,10 +193,6 @@ KPI dashboard for a global cycling-equipment manufacturer.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam8897&theme=tokyonight&hide_border=true&background=0A0E14&ring=FFB547&fire=5CE1E6&currStreakLabel=FFB547&sideLabels=C4CEDB&dates=8C9AAE&stroke=223044&currStreakNum=5CE1E6&sideNums=FFB547" width="500"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam8897&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&title_color=FFB547" />
-
 </div>
 
 <img src="./divider.svg" width="100%"/>
